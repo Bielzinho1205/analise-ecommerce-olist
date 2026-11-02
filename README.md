@@ -6,6 +6,10 @@ Projeto de análise de dados desenvolvido com o objetivo de investigar o desempe
 
 A análise utiliza dados públicos da Olist, explorados com SQL no Google BigQuery e apresentados por meio de um dashboard no Power BI.
 
+## Dashboard
+
+![Dashboard de Análise E-commerce Olist](dashboard-olist.png)
+
 ## Objetivos
 
 - Analisar a evolução mensal das vendas e dos pedidos.
